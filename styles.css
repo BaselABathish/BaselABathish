@@ -362,7 +362,7 @@ header {
     width: 100%;
     max-width: 800px;
     margin: 40px auto;
-    /*padding-top: 100px; /* Match header height */
+    padding-top: 100px; /* Match header height */
 
     font-family: inherit;
 }
