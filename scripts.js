@@ -2,8 +2,6 @@
 const menuToggle = document.querySelector('.menu-toggle');
 const navLinks = document.querySelector('.nav-links');
 
-
-
 menuToggle.addEventListener('click', () => {
     navLinks.classList.toggle('active');
 });
@@ -11,10 +9,14 @@ menuToggle.addEventListener('click', () => {
 
 
 // Check for saved user preference or use system preference
+
+//.matchMedia checks if a media query matches
 const prefersDarkScheme = window.matchMedia('(prefers-color-scheme: dark)');
+
+//localStorage is the browser's presistent key-value storage, getitem gets the value under key theme
 const currentTheme = localStorage.getItem('theme');
 
-    // Set initial theme
+    // Set initial theme in the <html> tag
 if (currentTheme === 'dark' || (!currentTheme && prefersDarkScheme.matches)) {
     document.documentElement.setAttribute('data-theme', 'dark');
     updateButtonText();
@@ -26,6 +28,7 @@ function toggleDarkMode() {
 
     if (isDark) {
     html.removeAttribute('data-theme');
+    //saves preference in localstorage
     localStorage.setItem('theme', 'light');
 } else {
     html.setAttribute('data-theme', 'dark');
