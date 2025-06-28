@@ -1,4 +1,4 @@
-// Mobile menu toggle, will do something with this later maybe
+// Mobile menu toggle, hides menu in mobile view
 const menuToggle = document.querySelector('.menu-toggle');
 const navLinks = document.querySelector('.nav-links');
 
