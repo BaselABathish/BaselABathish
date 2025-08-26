@@ -16,7 +16,7 @@
 ---
 
 ## Featured Projects
-🔹 [**3D Graphics Engine**](https://github.com/yourusername/project1) — Linear algebra–based 3D renderer.  
+🔹 [**3D Graphics Engine**](https://github.com/BaselABathish/3d_engine_ver_1) — Linear algebra–based 3D renderer.  
 🔹 [**WYSIWYG Webpage Designer**](https://github.com/yourusername/project2) — Page builder in vanilla HTML/CSS/JS.  
 🔹 [**Minesweeper**](https://github.com/yourusername/project3) — Classic game built with Tkinter.  
 
