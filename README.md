@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there, I'm Basel 👋
 
-<!--
-**BaselABathish/BaselABathish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- Computer Science student  
+- Currently working on **Math foundations**  
+- Interested in **Cybersecurity** & **AI**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=f7df1e)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+
+---
+
+## Featured Projects
+🔹 [**3D Graphics Engine**](https://github.com/yourusername/project1) — Linear algebra–based 3D renderer.  
+🔹 [**WYSIWYG Webpage Designer**](https://github.com/yourusername/project2) — Page builder in vanilla HTML/CSS/JS.  
+🔹 [**Minesweeper**](https://github.com/yourusername/project3) — Classic game built with Tkinter.  
+
+
+---
+
+## GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
+
+---
+
+## Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?&logo=firefox&logoColor=white)](https://yourwebsite.com)  
