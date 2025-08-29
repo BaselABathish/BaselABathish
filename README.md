@@ -18,7 +18,7 @@
 ## Featured Projects
 🔹 [**3D Graphics Engine**](https://github.com/BaselABathish/3d_engine_ver_1) — Linear algebra–based 3D renderer.
 🔹 [**WYSIWYG Webpage Designer**](https://github.com/yourusername/project2) — Page builder in vanilla HTML/CSS/JS. #wip  
-🔹 [**Minesweeper**](https://github.com/BaselABathish/BaselABathish/BAB_minesweeper.exe) — Classic game built with Tkinter.
+🔹 [**Minesweeper**](https://github.com/BaselABathish/BaselABathish/raw/refs/heads/main/BAB_minesweeper.exe) — Classic game built with Tkinter. *(Your browser will give you a warning when downloading this, but it is safe)*
 
 
 ---
