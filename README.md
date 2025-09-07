@@ -3,7 +3,7 @@
 ## About Me
 - Computer Science student  
 - Currently working on **Math foundations**  
-- Interested in **Cybersecurity** & **AI**  
+- Interested in **ML & DSA**  
 
 ---
 
